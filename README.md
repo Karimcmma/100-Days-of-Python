@@ -1,0 +1,114 @@
+# 100 Days of Python
+
+A collection of Python mini-projects, one for each day of the challenge.
+
+Each folder contains a separate project and its own README so the repo stays organized and easy to browse on GitHub.
+
+## Project structure
+
+- Day_01_BandName_Generator
+- Day_02_Tip_Calculator
+- Day_03_Treasure_Island
+- Day_04_Rock_Paper_Scissors
+- Day_05_Password_Generator
+- Day_06_Reeborgs_World
+- Day_07_Hangman
+- Day_08_Caesar_Cipher
+- Day_09_Secret_Auction
+- Day_10_Calculator
+- Day_11_Blackjack
+- Day_12_Number_Guessing
+- Day_13_Debugging_Challenge
+- Day_14_Higher_Lower
+- Day_15_Coffee_Machine
+- Day_16_OOP_Coffee_Machine
+- Day_17_Quiz_Game
+- Day_18_Turtle_Graphics
+- Day_19_Turtle_Race
+- Day_20_Snake_Game
+- Day_21_Inheritance
+- Day_22_Pong
+- Day_23_Turtle_Crossing
+- Day_24_Mail_Merge
+- Day_25_US_States_Game
+- Day_26_NATO_Alphabet
+- Day_27_Mile_To_Km_Converter
+- Day_28_Pomodoro_Timer
+- Day_29_Password_Manager
+- Day_30_Error_Handling
+- Day_31_Flash_Card_App
+- Day_32_Birthday_Wisher
+- Day_33_ISS_Overhead_Notifier
+- Day_34_Trivia_Quiz
+- Day_35_Weather_Alert
+- Day_36_Stock_Trading_News
+- Day_37_Habit_Tracker
+- Day_38_Workout_Tracker
+- Day_39_Flight_Deals
+- Day_40_Capstone_Travel_Tracker
+- Day_41_Web_Scraping
+- Day_42_Blog_Design
+- Day_43_Coffee_Machine_V2
+- Day_44_Movie_Quotes
+- Day_45_BeautifulSoup_Scraper
+- Day_46_Data_Parsing
+- Day_47_Amazon_Price_Tracker
+- Day_48_Selenium_Automation
+- Day_49_Job_Application_Bot
+- Day_50_Tinder_Swiper
+- Day_51_Twitter_Bot
+- Day_52_Instagram_Follower_Bot
+- Day_53_Data_Entry_Automation
+- Day_54_Web_Development
+- Day_55_HTML_URL_Parser
+- Day_56_Currency_Converter
+- Day_57_Blog_Upgraded
+- Day_58_Advanced_Tkinter
+- Day_59_Portfolio_Website
+- Day_60_Data_Visualization
+- Day_61_Image_Processing
+- Day_62_PDF_Editor
+- Day_63_API_Intro
+- Day_64_Weather_App
+- Day_65_ToDo_App
+- Day_66_Habit_App
+- Day_67_Chat_Bot
+- Day_68_Blog_API
+- Day_69_REST_API
+- Day_70_Full_Stack_App
+- Day_71_Deployment_App
+- Day_72_Authentication_App
+- Day_73_Database_App
+- Day_74_Ecommerce_App
+- Day_75_Social_App
+- Day_76_Inventory_App
+- Day_77_Finance_App
+- Day_78_AI_Basic_Project
+- Day_79_ML_Intro
+- Day_80_Data_Analysis
+- Day_81_Data_Scraper
+- Day_82_Portfolio_Tracker
+- Day_83_Game_Engine
+- Day_84_Game_Launcher
+- Day_85_File_Management_App
+- Day_86_Note_App
+- Day_87_Calendar_App
+- Day_88_Expense_Tracker
+- Day_89_Video_Editor
+- Day_90_Map_App
+- Day_91_AI_Chatbot
+- Day_92_Recommendation_App
+- Day_93_OCR_App
+- Day_94_Face_Recognition
+- Day_95_Voice_Assistant
+- Day_96_Computer_Vision
+- Day_97_Final_Capstone
+- Day_98_Final_Capstone_2
+- Day_99_Final_Challenge
+- Day_100_Final_Project
+
+## Notes
+
+- This repo uses one folder per project.
+- Each project keeps its own README and code file(s).
+- The goal is to keep GitHub easy to read and navigate.
